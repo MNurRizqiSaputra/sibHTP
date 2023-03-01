@@ -1,10 +1,25 @@
 SISTEM INFORMASI TEMPAT WISATA DI JAKARTA
 
-Berikut adalah beberapa fitur yang ada pada hak akses role User:
+Berikut adalah fitur yang ada pada hak akses role user pada Sistem Informasi Tempat Wisata di Jakarta:
+- Mengelola Akun
+User dapat mengelola akun mereka, termasuk mengubah informasi profil dan preferensi mereka, melihat riwayat transaksi, atau menghubungi layanan pelanggan.
+
 - Melihat informasi wisata
-- Membuat reservasi
+User dapat melihat informasi mengenai tempat wisata seperti deskripsi tempat, harga tiket masuk, jam operasional, fasilitas yang tersedia, dan informasi lainnya yang dibutuhkan.
+
+- Membuat reservasi 
+User dapat melakukan reservasi tempat wisata, seperti reservasi hotel atau tempat penginapan lainnya.
+
 - Melihat status reservasi
+User dapat melihat status pemesanan tiket yang telah dibuat, apakah sudah dibayar atau belum, dan apakah tiket sudah dapat diambil atau belum.
+
 - Melakukan pembayaran
-- Memberikan umpan balik
+Pengguna dapat membayar tiket atau pemesanan kegiatan secara online melalui sistem pembayaran yang terintegrasi.
+
+- Memberikan review dan rating
+User dapat memberikan review dan rating mengenai tempat wisata yang telah dikunjungi.
+Hal ini membantu pengguna lain untuk menentukan apakah tempat wisata tersebut cocok untuk dikunjungi.
+
 - Melihat promosi dan diskon
-- Mengakses informasi tentang program loyalitas
+User dapat melihat promo dan diskon yang tersedia pada tempat wisata tertentu. 
+Hal ini membantu user untuk mendapatkan harga yang lebih murah dan efisien dalam merencanakan perjalanan wisata.
