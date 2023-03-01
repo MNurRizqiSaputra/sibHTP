@@ -5,6 +5,31 @@ Memiliki 3 Role:
 - Admin
 - Guest
 
-Dibangun dengan teknologi terupdate dan canggih
-Menggunakan metode agile
-Target selesai project dengan lama 6 bulan
+Berikut adalah strategi teknis yang digunakan dalam perancangan Sistem Informasi Tempat Wisata di Jakarta:
+
+1. Identifikasi Kebutuhan Pengguna - 
+Hal ini akan membantu untuk memahami fitur dan fungsionalitas yang dibutuhkan oleh pengguna dan memastikan bahwa sistem memenuhi kebutuhan mereka.
+
+2. Pilih Platform yang Tepat 
+Perancangan Sistem Informasi Tempat Wisata di Jakarta menggunakan desain platform yang responsif untuk segala jenis platform
+
+3. Desain User Interface
+User Interface (UI) yang intuitif sangat penting untuk meningkatkan pengalaman pengguna
+
+4. Integrasi Peta Interaktif
+Integrasi peta interaktif dapat membantu pengguna untuk menemukan dan menavigasi tempat wisata yang diinginkan.
+
+5. Data Terkini dan Akurat 
+Pastikan data yang diberikan oleh sistem selalu terkini dan akurat.
+
+6. Fitur Pemesanan dan Pembayaran Online
+Perlu tersedianya fitur pemesanan dan pembayaran online yang memudahkan pengguna untuk memesan tiket atau paket wisata secara langsung dari sistem dan membayar secara online. 
+Pastikan juga sistem memiliki keamanan yang kuat untuk melindungi informasi pengguna.
+
+7. Analisis Data dan Feedback Pengguna 
+Hal ini akan membantu dalam meningkatkan fitur dan fungsionalitas sistem dan memastikan kepuasan pengguna yang lebih tinggi.
+
+8. Promosi dan Pemasaran
+Dapat dilakukan dengan strategi pemasaran online seperti iklan di media sosial atau kolaborasi dengan agen perjalanan dan operator tempat wisata.
+
+Dengan menerapkan strategi teknis ini, sistem informasi tempat wisata di Jakarta akan dapat memberikan pengalaman pengguna yang lebih baik dan meningkatkan pariwisata di Jakarta.
