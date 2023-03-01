@@ -1,0 +1,7 @@
+SISTEM INFORMASI TEMPAT WISATA DI JAKARTA
+
+Berikut adalah beberapa fitur yang ada pada hak akses role guest pada sebuah sistem informasi tempat wisata:
+- Melihat informasi tempat wisata
+- Melihat foto dan video
+- Melihat peta
+- Menghubungi customer service
