@@ -1,0 +1,3 @@
+SISTEM INFORMASI TEMPAT WISATA DI JAKARTA
+
+Role pengguna (user) pada sebuah sistem informasi merujuk pada peran atau hak akses yang diberikan kepada individu atau entitas yang menggunakan sistem tersebut. Role pengguna menentukan fungsi atau tindakan yang dapat dilakukan oleh pengguna di dalam sistem, serta batasan dan kewajiban yang harus dipatuhi oleh pengguna tersebut.
