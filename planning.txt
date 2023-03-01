@@ -1,0 +1,7 @@
+PERANCANGAN SISTEM INFORMASI TEMPAT WISATA DI JAKARTA
+
+LATAR BELAKANG:
+Sistem informasi tempat wisata di Jakarta diciptakan sebagai upaya untuk mempermudah wisatawan dalam menemukan informasi mengenai tempat wisata di Jakarta. Jakarta sebagai ibu kota Indonesia memiliki banyak tempat wisata yang menarik seperti museum, taman hiburan, tempat berbelanja, dan wisata kuliner. Namun, informasi mengenai tempat wisata tersebut tidak selalu mudah ditemukan atau terkadang kurang akurat.
+
+MANFAAT:
+Oleh karena itu, dibutuhkan sebuah sistem informasi yang dapat memberikan informasi yang akurat dan terpercaya mengenai tempat wisata di Jakarta. Sistem informasi ini dapat membantu wisatawan dalam menentukan tujuan wisata yang akan dikunjungi, mengetahui informasi detail mengenai tempat wisata seperti harga tiket masuk, jam operasional, fasilitas yang tersedia, dan informasi lainnya yang dibutuhkan oleh wisatawan. Selain itu, sistem informasi tempat wisata di Jakarta juga dapat membantu pemerintah dalam mempromosikan tempat wisata di Jakarta dan meningkatkan jumlah kunjungan wisatawan ke Jakarta. Dengan adanya sistem informasi yang akurat dan mudah diakses, diharapkan jumlah wisatawan yang berkunjung ke Jakarta akan meningkat dan memberikan dampak positif bagi perekonomian Jakarta.
