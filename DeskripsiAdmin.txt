@@ -1,3 +1,7 @@
 SISTEM INFORMASI TEMPAT WISATA DI JAKARTA
 
-Admin atau administrator adalah seseorang yang bertanggung jawab atas pengelolaan dan pemeliharaan sebuah sistem informasi. Admin bertindak sebagai pengawas dan pengelola atas operasional sistem informasi tersebut dan memastikan bahwa sistem tersebut berjalan dengan lancar dan efisien.
+Admin atau administrator adalah seseorang yang bertanggung jawab atas pengelolaan dan pemeliharaan sebuah sistem informasi. 
+Admin bertindak sebagai pengawas dan pengelola atas operasional sistem informasi tersebut
+
+Dengan hak akses admin pada sistem informasi, admin memiliki kontrol penuh pada sistem dan dapat mengelola fitur-fitur yang terdapat pada sistem tersebut.
+Hal ini memungkinkan admin untuk memastikan bahwa sistem dapat berjalan dengan lancar dan memberikan pengalaman pengguna yang optimal.
