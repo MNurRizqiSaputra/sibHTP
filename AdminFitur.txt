@@ -1,13 +1,33 @@
 SISTEM INFORMASI TEMPAT WISATA DI JAKARTA
 
-Berikut adalah beberapa fitur yang biasanya ada pada hak akses admin pada sebuah sistem informasi:
-- Manajemen Pengguna
-- Manajemen Hak Akses
-- Manajemen Data
-- Manajemen Konten
-- Manajemen Modul
-- Manajemen Keamanan
-- Manajemen Backup
-- Manajemen Laporan
-- Manajemen Integrasi
-- Manajemen Notifikasi
+Berikut adalah fitur yang ada pada hak akses role admin pada Sistem Informasi Tempat Wisata di Jakarta:
+1.	Manajemen Pengguna
+Admin dapat menambah, menghapus, atau mengubah informasi pengguna yang terdaftar pada sistem.
+
+2.	Manajemen Hak Akses
+Admin dapat menentukan hak akses yang diberikan pada setiap pengguna pada sistem, termasuk akses ke modul dan data tertentu.
+
+3.	Manajemen Data 
+Admin dapat mengelola data yang terkait dengan sistem, termasuk menambah, mengubah, dan menghapus data.
+
+4.	Manajemen Konten
+Admin dapat mengelola konten yang muncul pada sistem, seperti halaman depan dan artikel.
+
+5.	Manajemen Modul
+Admin dapat mengelola modul yang terdapat pada sistem, termasuk menambahkan, menghapus, atau mengubah fitur-fitur pada modul tersebut.
+
+6.	Manajemen Keamanan
+Admin dapat mengelola keamanan sistem, seperti mengelola password dan mengaktifkan sistem keamanan tambahan.
+
+7.	Manajemen Backup
+Admin dapat membuat backup data pada sistem, sehingga data tersebut dapat dipulihkan jika terjadi kerusakan atau kehilangan data.
+
+8.	Manajemen Laporan
+Admin dapat membuat laporan yang terkait dengan kinerja sistem dan penggunaan sistem.
+
+9.	Manajemen Integrasi
+Admin dapat mengelola integrasi sistem dengan sistem lain, seperti sistem pembayaran atau sistem email.
+
+10.	Manajemen Notifikasi
+Admin dapat mengelola notifikasi yang terkait dengan sistem, seperti notifikasi ke pengguna tentang perubahan data atau pengumuman terbaru.
+
