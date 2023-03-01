@@ -1,0 +1,13 @@
+SISTEM INFORMASI TEMPAT WISATA DI JAKARTA
+
+Berikut adalah beberapa fitur yang biasanya ada pada hak akses admin pada sebuah sistem informasi:
+- Manajemen Pengguna
+- Manajemen Hak Akses
+- Manajemen Data
+- Manajemen Konten
+- Manajemen Modul
+- Manajemen Keamanan
+- Manajemen Backup
+- Manajemen Laporan
+- Manajemen Integrasi
+- Manajemen Notifikasi
