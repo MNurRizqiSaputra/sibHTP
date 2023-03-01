@@ -1,0 +1,10 @@
+SISTEM INFORMASI TEMPAT WISATA DI JAKARTA
+
+Berikut adalah beberapa fitur yang ada pada hak akses role User:
+- Melihat informasi wisata
+- Membuat reservasi
+- Melihat status reservasi
+- Melakukan pembayaran
+- Memberikan umpan balik
+- Melihat promosi dan diskon
+- Mengakses informasi tentang program loyalitas
