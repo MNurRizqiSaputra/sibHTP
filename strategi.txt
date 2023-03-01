@@ -1,0 +1,10 @@
+SISTEM INFORMASI TEMPAT WISATA DI JAKARTA
+
+Memiliki 3 Role:
+- User
+- Admin
+- Guest
+
+Dibangun dengan teknologi terupdate dan canggih
+Menggunakan metode agile
+Target selesai project dengan lama 6 bulan
