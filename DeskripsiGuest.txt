@@ -1,3 +1,7 @@
 SISTEM INFORMASI TEMPAT WISATA DI JAKARTA
 
-Guest atau pengunjung pada sebuah sistem informasi tempat wisata adalah orang yang mengunjungi situs atau aplikasi tersebut untuk mencari informasi tentang tempat wisata yang ingin dikunjungi tanpa membuat sebuah akun
+Guest atau pengunjung pada sebuah sistem informasi tempat wisata adalah orang yang mengunjungi situs atau aplikasi tersebut untuk mencari informasi 
+tentang tempat wisata yang ingin dikunjungi tanpa membuat sebuah akun
+
+Dengan hak akses guest pada sistem informasi tempat wisata, pengunjung memiliki akses terbatas pada fitur-fitur sistem, 
+namun tetap memungkinkan mereka untuk memperoleh informasi dan mengeksplorasi opsi kunjungan ke tempat wisata tersebut.
